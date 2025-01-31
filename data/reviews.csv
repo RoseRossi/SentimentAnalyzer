@@ -1,0 +1,50 @@
+review,sentiment
+"Me encantó la película, es maravillosa.",positivo
+"Odio este producto, es horrible.",negativo
+"Es un servicio decente, pero podría mejorar.",neutro
+"El peor restaurante en el que he comido.",negativo
+"Maravilloso, excelente calidad y atención.",positivo
+"El café estaba frío y sin sabor.",negativo
+"Fue una experiencia increíble, volveré pronto.",positivo
+"La entrega tardó demasiado, no recomiendo comprar aquí.",negativo
+"El producto cumple con lo prometido, sin más.",neutro
+"¡Fantástico! Me encantó.",positivo
+"Terrible servicio al cliente, me hicieron esperar mucho.",negativo
+"El ambiente del lugar es bueno, pero la comida no me convenció.",neutro
+"La calidad del producto es excelente, lo compraría de nuevo.",positivo
+"No tiene nada especial, esperaba algo mejor.",neutro
+"El envío fue rápido, pero el empaque llegó dañado.",neutro
+"Estoy muy decepcionado, no cumple con lo prometido.",negativo
+"Mi experiencia fue increíble, el mejor producto que he comprado.",positivo
+"Servicio lento y empleados groseros, una decepción total.",negativo
+"El diseño del producto es hermoso y elegante.",positivo
+"Cumple con lo que promete, sin problemas.",neutro
+"Se rompió al primer uso, una completa estafa.",negativo
+"Me gusta la funcionalidad, pero el precio es alto.",neutro
+"Excelente servicio y rapidez en la entrega.",positivo
+"Una de las peores compras que he hecho en mi vida.",negativo
+"Recomiendo este producto, me ha sido muy útil.",positivo
+"El material es de mala calidad, no vale la pena.",negativo
+"Es muy bonito, pero poco funcional.",neutro
+"Producto perfecto, justo lo que necesitaba.",positivo
+"La atención al cliente fue excelente.",positivo
+"La comida estaba buena, pero el lugar era incómodo.",neutro
+"Este libro es increíble, lo recomiendo totalmente.",positivo
+"El precio es exageradamente alto para lo que ofrece.",negativo
+"No es lo mejor que he probado, pero tampoco es terrible.",neutro
+"La comida estaba deliciosa, definitivamente volveré.",positivo
+"El peor hotel en el que he estado, horrible experiencia.",negativo
+"Está bien, pero hay opciones mejores en el mercado.",neutro
+"El empaque llegó roto, pésima calidad.",negativo
+"Gran servicio, muy amables y atentos.",positivo
+"El sabor es aceptable, pero no es nada especial.",neutro
+"La película me hizo llorar de emoción, simplemente hermosa.",positivo
+"El restaurante tenía un ambiente agradable y la comida deliciosa.",positivo
+"El producto es decente, pero no lo compraría otra vez.",neutro
+"El precio es absurdo para la calidad que ofrece.",negativo
+"El envío llegó antes de lo esperado, muy buen servicio.",positivo
+"Me sentí estafado, la descripción del producto era engañosa.",negativo
+"Es un buen producto, pero el servicio al cliente no fue tan bueno.",neutro
+"El diseño es bonito, pero no funciona bien.",neutro
+"Este teléfono es el mejor que he tenido, super recomendado.",positivo
+"La peor compra que he hecho en mi vida, me arrepiento totalmente.",negativo

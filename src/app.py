@@ -29,11 +29,11 @@ if st.button("Analizar Sentimiento"):
 
             # Mostrar el resultado con colores
             if sentimiento == "positivo":
-                st.success(f"💚 **Sentimiento:** {sentimiento.capitalize()} 🎉")
+                st.success(f"**Sentimiento:** {sentimiento.capitalize()} 🎉")
             elif sentimiento == "negativo":
-                st.error(f"💔 **Sentimiento:** {sentimiento.capitalize()} 😞")
+                st.error(f"**Sentimiento:** {sentimiento.capitalize()} 😞")
             else:
-                st.warning(f"😐 **Sentimiento:** {sentimiento.capitalize()} 🤔")
+                st.warning(f"**Sentimiento:** {sentimiento.capitalize()} 🤔")
         else:
             st.error("⚠️ Error al conectarse con la API.")
     else:
@@ -41,4 +41,4 @@ if st.button("Analizar Sentimiento"):
 
 # Pie de página
 st.markdown("---")
-st.write("💡 Desarrollado por Isabela | API en Render 🚀")
+st.write("💡 Desarrollado por Isabela | API en Render ")

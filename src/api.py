@@ -30,5 +30,8 @@ def analizar():
 
     return jsonify({"texto": texto, "sentimiento": sentimiento})
 
+import os
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Tomar el puerto de Render o usar 5000 por defecto
+    app.run(host="0.0.0.0", port=port, debug=True)

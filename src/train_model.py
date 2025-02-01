@@ -88,7 +88,7 @@ print("\nEjemplo de predicciones en datos de prueba:")
 for texto, real, pred in zip(X_test[:10], y_test[:10], y_pred[:10]):
     print(f"Texto: {texto} | Real: {label_encoder.inverse_transform([real])[0]} | Predicción: {label_encoder.inverse_transform([pred])[0]}")
 
-# Guardar el modelo entrenado
-joblib.dump(modelo, "modelo_sentimientos.pkl")
-print("Modelo guardado correctamente.")
-
+# Después de entrenar y ajustar el vectorizador
+joblib.dump(vectorizador, "vectorizador_tfidf.pkl")  # Guarda el vectorizador
+joblib.dump(modelo, "modelo_sentimientos.pkl")  # Guarda el modelo
+print("Modelo y vectorizador guardados correctamente.")

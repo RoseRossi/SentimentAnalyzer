@@ -48,3 +48,264 @@ review,sentiment
 "El diseño es bonito, pero no funciona bien.",neutro
 "Este teléfono es el mejor que he tenido, super recomendado.",positivo
 "La peor compra que he hecho en mi vida, me arrepiento totalmente.",negativo
+"Me encanta este producto, es justo lo que necesitaba.",positivo
+"La atención al cliente fue maravillosa, volveré sin duda.",positivo
+"El servicio es excelente, superó mis expectativas.",positivo
+"Increíble calidad, estoy muy satisfecho.",positivo
+"Definitivamente lo recomendaría a mis amigos.",positivo
+"Me hizo muy feliz, no esperaba algo tan bueno.",positivo
+"Es una maravilla, me encanta usarlo todos los días.",positivo
+"Una de las mejores compras que he hecho.",positivo
+"Fantástico, me impresionó desde el primer momento.",positivo
+"Muy útil y fácil de usar, una gran experiencia.",positivo
+
+"No me gustó para nada, esperaba algo mejor.",negativo
+"Fue una completa decepción, no lo recomiendo.",negativo
+"Horrible experiencia, jamás volveré a comprar aquí.",negativo
+"Me arrepiento de haberlo comprado, no vale la pena.",negativo
+"Es de mala calidad, se rompió al poco tiempo.",negativo
+"No cumple con lo prometido, publicidad engañosa.",negativo
+"Servicio pésimo, no responden a las consultas.",negativo
+"Mala experiencia, la entrega fue muy tardada.",negativo
+"Me molesta que no tenga lo que realmente necesito.",negativo
+"Nunca había tenido un producto tan malo.",negativo
+
+"Es un producto normal, cumple con su función.",neutro
+"El servicio es aceptable, aunque podría mejorar.",neutro
+"No es ni bueno ni malo, simplemente adecuado.",neutro
+"Es lo que esperaba, nada sorprendente.",neutro
+"Funciona correctamente, pero no destaca.",neutro
+"No tengo una opinión fuerte al respecto.",neutro
+"Es un producto estándar, sin muchas diferencias.",neutro
+"El servicio fue correcto, sin mayores problemas.",neutro
+"Lo compré por probar, pero no me emociona.",neutro
+"Cumple con su propósito, aunque sin destacar.",neutro
+"El servicio fue pésimo, no volveré jamás.",negativo
+"Producto de muy mala calidad, se rompió al primer uso.",negativo
+"La atención al cliente es inexistente, una decepción total.",negativo
+"Me siento estafado, esto no vale lo que pagué.",negativo
+"El envío llegó tarde y el paquete estaba dañado.",negativo
+"Las instrucciones eran confusas y el montaje imposible.",negativo
+"El sabor de la comida era horrible, no lo recomiendo.",negativo
+"El tamaño no corresponde con la descripción, muy decepcionado.",negativo
+"Tuve una experiencia terrible, el personal fue grosero.",negativo
+"El software está lleno de errores, inutilizable.",negativo
+"El color del producto no coincide con las imágenes, engañoso.",negativo
+"El hotel estaba sucio y mal mantenido, una pesadilla.",negativo
+"El dispositivo se sobrecalienta constantemente, peligroso.",negativo
+"El servicio de soporte técnico no resolvió mi problema.",negativo
+"El material se siente barato y frágil, muy insatisfecho.",negativo
+"Las funciones anunciadas no están disponibles, publicidad engañosa.",negativo
+"El restaurante estaba lleno y nos hicieron esperar horas.",negativo
+"El producto llegó defectuoso y no ofrecen reemplazo.",negativo
+"El curso no cumplió con mis expectativas, contenido pobre.",negativo
+"El evento estuvo mal organizado y fue una pérdida de tiempo.",negativo
+"El producto llegó en el tiempo estimado.",neutro
+"La película tiene una duración de dos horas.",neutro
+"El restaurante ofrece una variedad de platos en su menú.",neutro
+"El libro está disponible en formato digital y físico.",neutro
+"La aplicación requiere una actualización para su uso.",neutro
+"El evento se llevará a cabo el próximo viernes.",neutro
+"El dispositivo es compatible con varios sistemas operativos.",neutro
+"El servicio al cliente está disponible las 24 horas.",neutro
+"El paquete incluye un manual de instrucciones.",neutro
+"El sitio web ofrece información detallada sobre el producto.",neutro
+"El hotel cuenta con habitaciones estándar y suites.",neutro
+"El curso cubre temas básicos y avanzados.",neutro
+"El vehículo tiene una capacidad de tanque de 50 litros.",neutro
+"El software es compatible con versiones anteriores.",neutro
+"El concierto comenzará a las 8 PM.",neutro
+"El taller tiene una duración de tres horas.",neutro
+"El artículo está disponible en varios colores.",neutro
+"El museo abre de martes a domingo.",neutro
+"El dispositivo viene con una garantía de un año.",neutro
+"El restaurante ofrece opciones vegetarianas y veganas.",neutro
+"El producto llegó antes de lo esperado y en perfecto estado.",positivo
+"La atención al cliente fue excelente, resolvieron todas mis dudas.",positivo
+"Me encantó la película, una historia muy emotiva y bien contada.",positivo
+"El servicio del restaurante fue impecable, volveré sin duda.",positivo
+"La aplicación es intuitiva y fácil de usar, muy recomendada.",positivo
+"El hotel estaba limpio y el personal era muy amable.",positivo
+"El envío fue rápido y el paquete estaba bien protegido.",positivo
+"Buena relación calidad-precio, superó mis expectativas.",positivo
+"El curso online fue muy completo y bien explicado.",positivo
+"La tienda ofrece una gran variedad de productos a buen precio.",positivo
+"El producto llegó antes de lo esperado y en perfecto estado.",positivo
+"La atención al cliente fue excelente, resolvieron todas mis dudas.",positivo
+"Me encantó la película, una historia muy emotiva y bien contada.",positivo
+"El servicio del restaurante fue impecable, volveré sin duda.",positivo
+"La aplicación es intuitiva y fácil de usar, muy recomendada.",positivo
+"El hotel estaba limpio y el personal era muy amable.",positivo
+"El envío fue rápido y el paquete estaba bien protegido.",positivo
+"Buena relación calidad-precio, superó mis expectativas.",positivo
+"El curso online fue muy completo y bien explicado.",positivo
+"La tienda ofrece una gran variedad de productos a buen precio.",positivo
+"El producto llegó defectuoso y no me ofrecieron solución.",negativo
+"La atención al cliente fue pésima, no resolvieron mi problema.",negativo
+"La película fue aburrida y predecible, esperaba algo mejor.",negativo
+"El servicio del restaurante fue muy lento y la comida estaba fría.",negativo
+"La aplicación se congela constantemente, es frustrante.",negativo
+"El hotel tenía muchas filtraciones y la habitación olía mal.",negativo
+"El envío tardó demasiado y el paquete llegó dañado.",negativo
+"El curso online no era lo que esperaba, fue una pérdida de dinero.",negativo
+"La tienda canceló mi pedido sin previo aviso, muy decepcionado.",negativo
+"El dispositivo no funciona como se describe, es un engaño.",negativo
+"El producto llegó defectuoso y no me ofrecieron solución.",negativo
+"La atención al cliente fue pésima, no resolvieron mi problema.",negativo
+"La película fue aburrida y predecible, esperaba algo mejor.",negativo
+"El servicio del restaurante fue muy lento y la comida estaba fría.",negativo
+"La aplicación se congela constantemente, es frustrante.",negativo
+"El hotel tenía muchas filtraciones y la habitación olía mal.",negativo
+"El envío tardó demasiado y el paquete llegó dañado.",negativo
+"El curso online no era lo que esperaba, fue una pérdida de dinero.",negativo
+"La tienda canceló mi pedido sin previo aviso, muy decepcionado.",negativo
+"El dispositivo no funciona como se describe, es un engaño.",negativo
+"El producto está bien, pero no es tan sorprendente como esperaba.",neutro
+"El servicio fue normal, no tengo quejas ni elogios.",neutro
+"La película tenía buenos momentos, pero la trama fue algo predecible.",neutro
+"El café está bien, pero he probado mejores en otros lugares.",neutro
+"El tiempo de entrega fue el esperado, ni más rápido ni más lento.",neutro
+"La calidad del material es buena, aunque esperaba algo más resistente.",neutro
+"El hotel tiene una ubicación conveniente, pero el servicio no destacó.",neutro
+"La comida estaba bien servida, aunque el sabor no era nada especial.",neutro
+"El evento estuvo organizado, pero le faltó algo de emoción.",neutro
+"La atención del personal fue correcta, aunque podrían ser más amables.",neutro
+"El servicio de internet es estable, pero la velocidad no es impresionante.",neutro
+"El curso en línea fue útil, pero le faltó más contenido práctico.",neutro
+"El perfume huele bien, aunque no dura tanto como esperaba.",neutro
+"El soporte técnico me respondió, pero no solucionaron del todo mi problema.",neutro
+"Las zapatillas son cómodas, aunque no parecen muy duraderas.",neutro
+"El coche funciona bien, pero el consumo de gasolina es un poco alto.",neutro
+"La pantalla del televisor es grande, pero los colores no son tan vibrantes.",neutro
+"El parque de diversiones tenía buenas atracciones, pero la espera era muy larga.",neutro
+"El libro fue interesante, aunque el final me pareció un poco flojo.",neutro
+"El producto cumplió con lo que promete, aunque no superó mis expectativas.",neutro
+"El producto llegó roto y no me dieron reembolso.",negativo
+"El servicio al cliente es pésimo, no atienden mis llamadas.",negativo
+"La aplicación se cierra sola constantemente, es frustrante.",negativo
+"El restaurante tardó una hora en servirnos y la comida estaba fría.",negativo
+"El envío se retrasó mucho y nadie me dio información clara.",negativo
+"El hotel estaba sucio y el aire acondicionado no funcionaba.",negativo
+"La calidad del material es muy mala, se rompió a los pocos días.",negativo
+"La ropa vino en la talla equivocada y no me permitieron cambiarla.",negativo
+"El libro tenía páginas rotas y estaba mal impreso.",negativo
+"El televisor dejó de funcionar después de una semana.",negativo
+"El gimnasio está sobrevalorado, el equipo está viejo y descuidado.",negativo
+"El perfume no dura nada, parece agua con alcohol.",negativo
+"La película fue aburrida y predecible, desperdicié mi dinero.",negativo
+"El parque de diversiones estaba lleno y no pude subirme a casi nada.",negativo
+"El teléfono se calienta demasiado y la batería dura muy poco.",negativo
+"El coche tiene muchos problemas mecánicos, no lo recomendaría.",negativo
+"El internet se cae constantemente, es imposible trabajar así.",negativo
+"El evento fue un desastre, pésima organización y falta de seguridad.",negativo
+"El curso en línea no sirve para nada, es una pérdida de tiempo.",negativo
+"Las zapatillas me hicieron ampollas, son muy incómodas.",negativo
+"El producto superó mis expectativas, la calidad es increíble.",positivo
+"Servicio al cliente excepcional, resolvieron mi problema en minutos.",positivo
+"La comida estuvo deliciosa, definitivamente volveré.",positivo
+"Entrega rápida y el embalaje perfecto, muy satisfecha con la compra.",positivo
+"El celular tiene un diseño hermoso y la batería dura bastante.",positivo
+"Muy buena experiencia en el hotel, personal amable y habitaciones limpias.",positivo
+"Las zapatillas son cómodas y resistentes, justo lo que buscaba.",positivo
+"Los auriculares tienen un sonido excelente, muy recomendados.",positivo
+"El libro me atrapó desde la primera página, una historia fascinante.",positivo
+"Estoy encantado con mi compra, mejor de lo que esperaba.",positivo
+
+"El producto es decente, cumple su función pero nada espectacular.",neutro
+"La atención fue correcta, aunque podrían mejorar la rapidez.",neutro
+"La película estuvo bien, aunque el final no me convenció mucho.",neutro
+"El restaurante es bonito, pero la comida es normal.",neutro
+"El servicio técnico atendió mi consulta, pero no resolvió el problema del todo.",neutro
+"El hotel tiene buenas instalaciones, aunque algunas áreas necesitan mantenimiento.",neutro
+"El envío tardó más de lo esperado, pero al final llegó bien.",neutro
+"El curso en línea es interesante, aunque le faltan ejemplos prácticos.",neutro
+"Buena relación calidad-precio, aunque hay mejores opciones.",neutro
+"El diseño del producto es atractivo, pero los materiales no parecen tan duraderos.",neutro
+
+"El soporte técnico no resolvió mi problema, perdí tiempo y dinero.",negativo
+"La comida estaba fría y el servicio fue muy lento.",negativo
+"Compré este producto y se rompió en menos de una semana.",negativo
+"El hotel estaba sucio y la atención del personal fue pésima.",negativo
+"No recomendaría esta tienda, me enviaron el producto equivocado.",negativo
+"Los audífonos dejaron de funcionar después de pocos usos.",negativo
+"Pagué por un servicio premium y me trataron como a cualquiera.",negativo
+"El celular se sobrecalienta y la batería no dura nada.",negativo
+"El curso en línea es una estafa, no cumple lo que promete.",negativo
+"Nunca volveré a comprar aquí, pésima experiencia.",negativo
+"El servicio al cliente fue muy atento y resolvió mis dudas rápidamente.",positivo
+"El hotel era hermoso, tenía una vista espectacular.",positivo
+"El producto es de excelente calidad y llegó antes de lo esperado.",positivo
+"El software es fácil de usar y muy intuitivo, lo recomiendo.",positivo
+"Este curso en línea me ayudó mucho a mejorar mis habilidades.",positivo
+"Buena compra, cumple con lo prometido.",positivo
+"El restaurante tiene buena comida, pero el servicio es un poco lento.",neutro
+"El empaque llegó un poco dañado, pero el producto está en buen estado.",neutro
+"Es un hotel decente, aunque he estado en mejores.",neutro
+"El libro tiene una historia interesante, pero la edición tiene errores.",neutro
+"El curso tiene información útil, aunque le falta profundidad en algunos temas.",neutro
+"La comida estaba fría y el mesero tardó mucho en atendernos.",negativo
+"La pantalla del teléfono dejó de funcionar después de un mes de uso.",negativo
+"El envío tardó más de dos semanas y llegó con el empaque roto.",negativo
+"El producto no era como en la descripción, me siento estafado.",negativo
+"El soporte técnico no me ayudó en nada, perdí mi tiempo.",negativo
+"El café estaba delicioso, pero la atención fue lenta.",neutro
+"La aplicación tiene un buen diseño, pero a veces se congela.",neutro
+"Buen lugar para relajarse, aunque la música estaba demasiado alta.",neutro
+"El servicio fue aceptable, pero esperaba más.",neutro
+"La película tenía buenos efectos visuales, pero el guion no me convenció.",neutro
+"El celular es rápido, pero la batería dura muy poco.",neutro
+"Me gusta el producto, aunque la entrega demoró más de lo esperado.",neutro
+"Me encantó la comida, pero el precio es un poco alto.",neutro
+"El producto es funcional, aunque esperaba un mejor acabado.",neutro
+"Buen servicio al cliente, pero el problema no se resolvió completamente.",neutro
+
+"El hotel es espectacular, el personal muy amable y la vista increíble.",positivo
+"El restaurante es excelente, la comida es deliciosa y la atención es de primera.",positivo
+"Compré este libro y me encantó la historia, lo recomiendo mucho.",positivo
+"Este es el mejor teléfono que he tenido, la cámara es increíble.",positivo
+"Me gustó mucho el servicio, fueron muy rápidos y amables.",positivo
+"Recomiendo este producto, superó mis expectativas.",positivo
+"La entrega fue rápida y el empaque llegó en perfecto estado.",positivo
+"El software es muy intuitivo y fácil de usar, 10/10.",positivo
+"Los auriculares tienen una calidad de sonido espectacular.",positivo
+"El curso online es excelente, aprendí mucho en poco tiempo.",positivo
+"La peor experiencia de mi vida, no volveré a comprar aquí.",negativo
+"El pedido nunca llegó y no me devolvieron el dinero.",negativo
+"El soporte técnico no me ayudó en nada, pésimo servicio.",negativo
+"La pantalla del celular se rompió en menos de una semana.",negativo
+"El producto es de mala calidad, se rompió el primer día.",negativo
+"El restaurante estaba sucio y la comida llegó fría.",negativo
+"No recomiendo este servicio, me hicieron esperar horas.",negativo
+"El internet es demasiado lento, no sirve para nada.",negativo
+"El paquete llegó abierto y faltaban cosas dentro.",negativo
+"Este curso es una estafa, no enseñan nada útil.",negativo
+"El restaurante estaba sucio y la comida fría.",negativo
+"El servicio de soporte técnico no resolvió mi problema.",negativo
+"El internet se cae cada cinco minutos, es desesperante.",negativo
+"Compré este producto y se rompió en menos de una semana.",negativo
+"El envío tardó más de un mes y llegó en mal estado.",negativo
+"Reservé un hotel y cuando llegué no tenían mi reserva.",negativo
+"El servicio al cliente es pésimo, nunca responden mis correos.",negativo
+"El juego tiene muchos bugs, es injugable.",negativo
+"La película fue una decepción total, esperaba más.",negativo
+"Pedí un café y me lo dieron frío. Nunca vuelvo.",negativo
+"El producto es aceptable, pero esperaba algo mejor.",neutro
+"No está mal, pero tampoco es impresionante.",neutro
+"El envío tardó más de lo esperado, pero llegó bien.",neutro
+"La película tiene buenos efectos, pero la historia es aburrida.",neutro
+"No tengo mucho que decir, simplemente es un producto normal.",neutro
+"El restaurante tiene buena ubicación, pero la comida es promedio.",neutro
+"El hotel es bonito, pero el desayuno no estaba incluido.",neutro
+"No me encantó, pero tampoco lo odié.",neutro
+"La aplicación tiene un diseño bonito, pero le faltan funciones.",neutro
+"El servicio fue correcto, nada espectacular.",neutro
+"El producto superó mis expectativas, excelente calidad.",positivo
+"El restaurante tenía un ambiente increíble y la comida deliciosa.",positivo
+"El servicio al cliente fue muy amable y resolvió mi problema rápido.",positivo
+"El envío llegó antes de lo esperado, muy satisfecho.",positivo
+"La película fue maravillosa, me encantó cada momento.",positivo
+"El juego es increíble, gráficos y jugabilidad excelentes.",positivo
+"El hotel tenía una vista espectacular, volvería sin dudarlo.",positivo
+"La aplicación es intuitiva y fácil de usar, 100% recomendada.",positivo
+"El libro me atrapó desde la primera página, muy recomendado.",positivo
+"La tienda online tiene excelentes precios y envíos rápidos.",positivo

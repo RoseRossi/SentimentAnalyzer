@@ -2,8 +2,9 @@ from flask import Flask, request, jsonify
 import joblib
 import string
 
-# Cargar el modelo entrenado
+# Cargar el modelo entrenado y el vectorizador
 modelo = joblib.load("modelo_sentimientos.pkl")
+vectorizador = joblib.load("vectorizador_tfidf.pkl")  # ¡Cargar el vectorizador!
 
 # Función para limpiar el texto
 def limpiar_texto(texto):
@@ -26,7 +27,12 @@ def analizar():
 
     texto = datos["texto"]
     texto_limpio = limpiar_texto(texto)
-    sentimiento = modelo.predict([texto_limpio])[0]
+
+    # Transformar el texto con el mismo vectorizador
+    texto_vectorizado = vectorizador.transform([texto_limpio])
+
+    # Predecir el sentimiento
+    sentimiento = modelo.predict(texto_vectorizado)[0]
 
     return jsonify({"texto": texto, "sentimiento": sentimiento})
 

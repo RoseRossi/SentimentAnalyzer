@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 import joblib
 import string
+import os
+from flask_cors import CORS
 
 # Cargar el modelo entrenado y el vectorizador
 modelo = joblib.load("modelo_sentimientos.pkl")
@@ -14,6 +16,7 @@ def limpiar_texto(texto):
 
 # Inicializar la aplicación Flask
 app = Flask(__name__)
+CORS(app)  # Habilitar CORS para permitir solicitudes desde Streamlit
 
 @app.route("/")
 def home():
@@ -32,12 +35,11 @@ def analizar():
     texto_vectorizado = vectorizador.transform([texto_limpio])
 
     # Predecir el sentimiento
-    sentimiento = modelo.predict(texto_vectorizado)[0]
-
-    return jsonify({"texto": texto, "sentimiento": sentimiento})
-
-import os
+    sentimientos_dict = {0: "negativo", 1: "neutro", 2: "positivo"}  # Mapear números a etiquetas
+    sentimiento = int(modelo.predict(texto_vectorizado)[0])  # Convertir a int
+    sentimiento_texto = sentimientos_dict.get(sentimiento, "desconocido")  # Convertir a etiqueta
+    return jsonify({"texto": texto, "sentimiento": sentimiento_texto})  # Devolver como texto
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # Tomar el puerto de Render o usar 5000 por defecto
-    app.run(host="0.0.0.0", port=port, debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Usa el puerto de Render o 5000 por defecto
+    app.run(host="0.0.0.0", port=port, debug=False)  # Desactiva el modo debug

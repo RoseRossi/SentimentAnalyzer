@@ -15,6 +15,9 @@ texto_usuario = st.text_area("✍ Escribe un texto para analizar:")
 # URL de la API desplegada en Render
 URL_API = "https://sentimentanalyzer-yvg1.onrender.com/analizar"
 
+# Para correrlo de manera local:
+# # URL_API = "http://127.0.0.1:5000/analizar"
+
 # Inicializar historial si no existe
 if "historial" not in st.session_state:
     st.session_state["historial"] = []
@@ -58,8 +61,14 @@ st.sidebar.title("📊 Distribución de Sentimientos")
 
 # Contar cantidad de cada sentimiento
 contadores = {"positivo": 0, "negativo": 0, "neutro": 0}
-for item in st.session_state["historial"]:
-    contadores[item["sentimiento"]] += 1
+
+for item in st.session_state["historial"]:  # Ahora 'item' está definido correctamente
+    sentimiento = item.get("sentimiento", "neutro")  # Obtener sentimiento, por defecto "neutro"
+    if sentimiento in contadores:
+        contadores[sentimiento] += 1
+    else:
+        contadores["neutro"] += 1  # Si es un valor inesperado, cuenta como "neutro"
+
 
 # Si hay datos en el historial, generamos el gráfico
 if sum(contadores.values()) > 0:
